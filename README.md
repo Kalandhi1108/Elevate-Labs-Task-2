@@ -63,23 +63,37 @@ Mitigation Strategies:
  For Individuals:
 
  -->Double-check the sender’s email domain.
+ 
  -->Hover over links to see the actual URL before clicking.
+ 
  -->Never click suspicious links or download unexpected attachments.
+ 
  -->Enable Two-Factor Authentication (2FA) on all major accounts.
+ 
  -->Stay educated about common phishing tactics.
+ 
  -->Use “Report Phishing” features in Gmail, Outlook, etc.
+ 
  -->Avoid responding to emails asking for personal or financial info.
+ 
  -->Keep your browser and antivirus software up to date.
 
  For Organizations:
  
  -->Conduct regular security awareness training for employees.
+ 
  -->Implement email filtering and anti-phishing gateways.
+ 
  -->Use SPF, DKIM, and DMARC to validate email authenticity.
+ 
  -->Monitor inbound/outbound email traffic for anomalies.
+ 
  -->Enforce strong password and 2FA policies across the company.
+ 
  -->Run phishing simulation campaigns to test staff readiness.
+ 
  -->Create and enforce a cybersecurity incident response plan.
+ 
  -->Log and audit all email activities for early detection.
 
 
