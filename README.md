@@ -58,6 +58,30 @@ STEP 8:  Summarize Phishing Traits Found
 The email shows clear signs of phishing. It uses a **spoofed sender address**, coming from `netfliix-help.com`, which is designed to look similar to Netflix’s legitimate domain. The message likely **fails SPF, DKIM, or DMARC authentication checks**, which can be verified by inspecting the email headers. It contains a **suspicious link** pointing to `netflix-billing-fix.com`, a domain unrelated to Netflix, and employs **urgent and threatening language** urging the recipient to "update immediately" to avoid account suspension. The email includes **mild grammar and spelling errors**, and when hovering over links, the URLs are **mismatched and lead to untrusted domains**. Finally, it opens with a **generic greeting**—"Dear Valued Customer"—rather than using the recipient’s real name, further suggesting it is a phishing attempt rather than a legitimate communication.
 
 
+Mitigation Strategies:
+
+ For Individuals:
+
+ -->Double-check the sender’s email domain.
+ -->Hover over links to see the actual URL before clicking.
+ -->Never click suspicious links or download unexpected attachments.
+ -->Enable Two-Factor Authentication (2FA) on all major accounts.
+ -->Stay educated about common phishing tactics.
+ -->Use “Report Phishing” features in Gmail, Outlook, etc.
+ -->Avoid responding to emails asking for personal or financial info.
+ -->Keep your browser and antivirus software up to date.
+
+ For Organizations:
+ 
+ -->Conduct regular security awareness training for employees.
+ -->Implement email filtering and anti-phishing gateways.
+ -->Use SPF, DKIM, and DMARC to validate email authenticity.
+ -->Monitor inbound/outbound email traffic for anomalies.
+ -->Enforce strong password and 2FA policies across the company.
+ -->Run phishing simulation campaigns to test staff readiness.
+ -->Create and enforce a cybersecurity incident response plan.
+ -->Log and audit all email activities for early detection.
+
 
 
 
